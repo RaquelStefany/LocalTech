@@ -1,0 +1,17 @@
+:root{
+    --first-color: #0e2431;
+}
+  
+  .dark-theme{
+    --first-color: #fff;
+}
+
+.login h3{
+    text-align: center;
+    color: var(--first-color);
+}
+
+.icon-login{
+    text-align: center;
+    font-size: xxx-large;
+}
