@@ -17,22 +17,22 @@ O projeto consiste em um sistema de chat online em tempo real para interação d
 - Ajax
 
 #### Desenvolvedores:
-<a href="https://www.linkedin.com/in/alice-santos-070a81206/" target="blank">
+<a href="https://www.linkedin.com/in/alice-santos-070a81206/" target="_blank">
   Alice Santos
 </a>
 <br>
-<a href="https://www.linkedin.com/in/douglas-souza-5a2527221/" target="blank">
+<a href="https://www.linkedin.com/in/douglas-souza-5a2527221/" target="_blank">
   Douglas Souza
 </a>
 <br>
-<a href="https://www.instagram.com/guilhermelopes392/" target="blank">
+<a href="https://www.instagram.com/guilhermelopes392/" target="_blank">
   Guilherme Lopes
 </a>
 <br>
-<a href="https://www.instagram.com/lemoreirafrr/" target="blank">
+<a href="https://www.instagram.com/lemoreirafrr/" target="_blank">
   Leticia Moreira
 </a>
 <br>
-<a href="https://www.linkedin.com/in/raquel-stefany-generoso-rodrigues-a51a7a201/" target="blank">
+<a href="https://www.linkedin.com/in/raquel-stefany-generoso-rodrigues-a51a7a201/" target="_blank">
   Raquel Stefany
 </a>
