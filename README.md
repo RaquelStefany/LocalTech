@@ -33,6 +33,6 @@ O projeto consiste em um sistema de chat online em tempo real para interação d
   Leticia Moreira
 </a>
 <br>
-<a href="https://www.linkedin.com/in/raquel-stefany-generoso-rodrigues-a51a7a201/" target="_blank">
+<a href="https://www.linkedin.com/in/raquelstefany" target="_blank">
   Raquel Stefany
 </a>
